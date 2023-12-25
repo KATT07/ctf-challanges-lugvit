@@ -9,11 +9,11 @@ print(st)
 # Enigma Encoder - www.101computing.net/enigma-encoder/
 
 # ----------------- Enigma Settings -----------------
-rotors = ("I", "II", "III")
+rotors = ("I", "II", "I")
 reflector = "UKW-B"
-ringSettings = "ABC"
-ringPositions = "DEF"
-plugboard = "AT BS DE FM IR KN LZ OW PV XY"
+ringSettings = "APA"
+ringPositions = "ZOB"
+plugboard = "LU GV IT"
 
 
 # ---------------------------------------------------
