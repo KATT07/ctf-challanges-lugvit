@@ -6,7 +6,6 @@ COPY . /root
 
 # Make gen_flag executable
 RUN chmod +x /root/gen_flag
-RUN sudo cp enigma_settings.png /app/ 
 
 # Copy all files which user can access to /app
 WORKDIR /app
