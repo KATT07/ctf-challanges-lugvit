@@ -264,7 +264,7 @@ print(b_strr)
 
 # Save to challange file
 
-f=open("decode-me.txt","w")
+f=open("/app/decode-me.txt","w")
 f.write(b_strr)
 f.close()
 
@@ -273,7 +273,7 @@ lst=[]
 for i in range(len(st)):
     if st[i].isupper():
             lst.append(str(i))
-f=open("after-solving.txt","w")
+f=open("/app/after-solving.txt","w")
 f.write("Change Following indices to uppercase before submitting flag \n")
 for i in lst:
     f.write(i+" ")
