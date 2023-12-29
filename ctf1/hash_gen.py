@@ -270,13 +270,14 @@ f.write(b_strr)
 f.close()
 
 
-lst=[]
-for i in range(len(st)):
-    if st[i].isupper():
-            lst.append(str(i))
-f=open("/app/after-solving.txt","w")
-f.write("Change Following indices to uppercase before submitting flag \n")
-for i in lst:
-    f.write(i+" ")
-f.write("\nindices start from 0,1,2...")
-f.close()
+#CHANGED AFTER LEARNING FLAG IS NOT CASE-SENSITIVE UNCOMMENT IF FLAG IS CASE SENSITIVE
+#lst=[]
+#for i in range(len(st)):
+#    if st[i].isupper():
+#            lst.append(str(i))
+#f=open("/app/after-solving.txt","w")
+#f.write("Change Following indices to uppercase before submitting flag \n")
+#for i in lst:
+#    f.write(i+" ")
+#f.write("\nindices start from 0,1,2...")
+#f.close()
