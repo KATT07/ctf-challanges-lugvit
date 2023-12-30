@@ -1,0 +1,7 @@
+#! /bin/bash
+
+cd /root
+gcc -o question/bin generators/src.c -fno-stack-protector -z execstack -no-pie
+printf $1 | base64 > flag.txt
+steghide embed -ef flag.txt -cf question/scrtimg.jpeg -p qwertyuiop
+rm flag.txt
