@@ -1,9 +1,0 @@
-First, the participant must use buffer overflow and have the value be exactly 291 (0x123).
-
-This will generate a shadow file
-
-The shadow file then has to be decrypted using john the ripper
-
-The password hence obtained can be used to extract flag.txt from the image using steghide
-
-flag.txt must now be base64 decrypted to obtain the flag
