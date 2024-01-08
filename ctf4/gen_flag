@@ -1,0 +1,3 @@
+#!/bin/bash
+flag=$1
+echo $flag>/root/flag.txt
