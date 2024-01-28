@@ -12,7 +12,16 @@ settings for enigma machine given using a image from https://www.101computing.ne
 (Ring Setting indicated using notch)                                                                                                                  
 (Reflector type indicated by editing name on website)                                                                                                                  
 (Rotor type I II I photoshopped in image)                                                                                                                  
+
                                                                                                                   
+                                                                                                              
+                                                                                                              
+# For Participants:
+
+Description:
+
+We speak in codes how did u know what code we are talking in? 
+
 Hint 1:                                                                                                                                                                     
 No hashing                                                                                                                                                                  
 Hint 2:                                                                                                                                                                     
