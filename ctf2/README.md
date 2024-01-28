@@ -14,8 +14,8 @@ Description:
 my friend sent me this strange image and told there is something hidden inside can u find out what it is?
 
 Hint 1:                                                                                                                                                                     
-are u sure the file is just the image?
+are u sure the file is just the image?                                                                                                         
 Hint 2:                                                                                                                                                                     
-i wonder what hash it is
+i wonder what hash it is                                                                                                        
 Hint 3:                                                                                                                                                                    
-use a bigger wordlist
+use a bigger wordlist                                                                                                                                                   
