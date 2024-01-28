@@ -12,8 +12,8 @@ Description:
 I love cookies please check out my site about cookies!!!
 
 Hint 1:                                                                                                                                                                     
-how to see cookies?
+how to see cookies?                                                                                                                                                        
 Hint 2:                                                                                                                                                                     
-what does the cookie say?
+what does the cookie say?                                                                                                                  
 Hint 3:                                                                                                                                                                    
-can u modify cookies?
+can u modify cookies?                                                                                                                  
